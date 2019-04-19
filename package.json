@@ -1,6 +1,6 @@
 {
   "name": "slack-slash-terminus",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Slack slash command handler for Pantheon systems",
   "keywords": [
     "slack",
